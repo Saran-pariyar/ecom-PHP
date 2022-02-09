@@ -190,8 +190,8 @@ if ($count2 > 0) {
 
 }
 } else {
-//No Food Item Available
-echo "<div class='text-success'> No Food Item Available </div>";
+//No  Item Available
+echo "<div class='text-success'> No Item Available </div>";
 }
 
 ?>
