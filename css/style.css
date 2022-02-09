@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/************** CSS FOR EVERYTHING  ********/
+
+/* css for navbar  */
+ .slider-image{
+  max-height: 75vh;
+}
+.login-body{
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}

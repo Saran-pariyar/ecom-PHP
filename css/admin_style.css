@@ -1,0 +1,15 @@
+/* For login page */
+.login-body{
+    height: 100vh;
+    width: 100vw;
+    background:rgba(0, 0, 0, 0.7) url(../images/login_bg.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-size: cover ;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
