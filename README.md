@@ -27,8 +27,17 @@ As admin:
 
 -If logged in, you'll be redirected to admin panel until you logout
 
--Manage orders :
- 
- -Manage items:
+![Screenshot from 2022-08-10 18-01-14](https://user-images.githubusercontent.com/86418083/183903359-0d2c55cc-8245-450c-8379-72665e9f9507.jpg)
 
--Manager orders and items,etc
+ 
+ -Manage admin
+ 
+ ![Screenshot from 2022-08-10 18-01-23](https://user-images.githubusercontent.com/86418083/183903633-3d04fbe2-44f0-409a-b22a-bbbf1e30d7fd.jpg)
+
+ 
+
+-Manager Categories and items
+
+![Screenshot from 2022-08-10 18-01-32](https://user-images.githubusercontent.com/86418083/183903732-b519c10a-a28d-4b54-b5fa-00d1ecd4da64.jpg)
+
+
