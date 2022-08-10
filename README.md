@@ -1,8 +1,13 @@
 This is a ecommerce website project.
+
 Technologies I used for the project:
+
 1.PHP and MYSQL
+
 2.Bootstrap
+
 3.HTML & Css
+
 4.JavaScript
 
 When you enter the website from http://ecomsaran.epizy.com// you'll enter to this site:
