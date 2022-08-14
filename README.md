@@ -23,6 +23,8 @@ As client:
 -View all items and search items with name
 
 
+To go to admin panel, go to : http://ecomsaran.epizy.com/admin/login.php
+
 As admin:
 
 -Password required to log in
